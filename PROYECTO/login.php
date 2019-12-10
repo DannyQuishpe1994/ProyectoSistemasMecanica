@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="css/main_1.css">
         <title>LOGIN PROYECTO</title>
 
     </head>
@@ -22,12 +22,12 @@
             <br><br>
             <input type="password" name="password" placeholder="password" autocomplete="off" required="true">
             <br><br>
-            <input type="submit" ></button>
+            <input type="submit" ></input >
             <br><br>
             </div>
         </form>
         <div align="center">
-            <a href=" registro.php">Registrarme</a> &nbsp&nbsp &nbsp
+            <a href=" vistas/registro.php">Registrarme</a> &nbsp&nbsp &nbsp
             <a href=" vistas/correo.php">Olvide mi password</a>
             
         </div>
